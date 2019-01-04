@@ -5,13 +5,13 @@
 }
 
 #content{
-    width: 100%;
+    width: auto;
     display: flex;
     flex-wrap: wrap;
 }
 
 #content-img{
-    width: 300px;
+    width: auto;
     margin: auto;
     margin: 10px;
     text-align: center;
